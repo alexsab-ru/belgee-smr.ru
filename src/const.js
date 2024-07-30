@@ -14,7 +14,7 @@ export const SITE_DESCR = 'Официальный дилерский центр 
 // Имя пользователя в Телегам
 export const TELEGRAM = '';
 // Телефон по умолчанию
-export const PHONE = '+7 (846) 377-73-00';
+export const PHONE = '+7 (846) 213 12-13';
 // Бренд
 export const BRAND = 'BELGEE';
 // Конечное время для таймера
