@@ -25,10 +25,10 @@ const salonsPhone = salons.map((salon: any) => { return salons[0].phone }).join(
 	<ModelList />
 	{models.length > 0 && models.map((model: any) => model.show && <Model model={model}/>)}
 	{modelsWithComplectations.length > 0 && <ModelComplectations models={modelsWithComplectations} brand={BRAND} />}
-	<Callback bgUrl="img/konkurenty.webp" />
+	<Callback bgUrl="/img/konkurenty.webp" />
 	<Services />
 	<Contacts
-		mapImg="img/map-bg.webp"
+		mapImg="/img/map-bg.webp"
 		title="Наши контакты"
 	/>
 </Layout>
