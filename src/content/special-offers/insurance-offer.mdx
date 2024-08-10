@@ -9,9 +9,10 @@ description: "Ознакомьтесь со страховыми продукт�
 import Button from '@/components/Button/Button.astro';
 import { SITE_NAME, PHONE } from '@/const';
 import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
 export const from = '01.07.2024';
-export const to = '31.08.2024';
+export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
 
 <picture>
     <source media="(min-width: 942px)" srcset="/img/specials/insurance-offer/banner_1920x1080.webp" />
