@@ -93,3 +93,46 @@ const regex = /\/{2,}$/;
 if(regex.test(path)){
 	window.location.href = path.replace(regex, '/');
 }
+
+import { LAST_DAY, MONTH, YEAR } from '@/js/utils/numbers.format';
+
+// Объект с заменами
+const replacements = {
+	lastDay: LAST_DAY,
+	month: MONTH,
+	year: YEAR,
+};
+
+// Функция для замены всех строк между {{ и }} по всему DOM
+function replaceStringsInDOM(replacements) {
+	// Получаем все текстовые узлы в документе
+	const walker = document.createTreeWalker(
+		document.body,
+		NodeFilter.SHOW_TEXT,
+		null,
+		false
+	);
+	let node;
+
+	// Регулярное выражение для поиска строк между {{ и }}
+	const regex = /\{\{(.*?)\}\}/g;
+
+	// Проходим по всем текстовым узлам
+	while ((node = walker.nextNode())) {
+		let originalText = node.nodeValue;
+		let newText = originalText.replace(regex, (match, p1) => {
+			// Если найденное значение есть в объекте replacements, заменяем его
+			return replacements[p1.trim()] !== undefined
+				? replacements[p1.trim()]
+				: match;
+		});
+
+		// Если текст изменился, обновляем текстовый узел
+		if (newText !== originalText) {
+			node.nodeValue = newText;
+		}
+	}
+}
+
+// Пример использования
+replaceStringsInDOM(replacements);
