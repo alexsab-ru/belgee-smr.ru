@@ -11,9 +11,10 @@ export async function getStaticPaths() {
   });
 }
 
+import { BRAND, LEGAL_CITY_WHERE } from '@/const';
 const { model } = Astro.props;
 import { breadcrumb } from './index.astro';
 ---
-<Layout title={model.name} description={model.slogan} breadcrumb={[breadcrumb, {name: model.name, href: Astro.url.pathname}]} backLink={true}>
+<Layout title={`${BRAND} ${model.name} – фото, цены, комплектации и характеристики ${BRAND} ${model.name} в ${LEGAL_CITY_WHERE}`} description={model.slogan} breadcrumb={[breadcrumb, {name: model.name, href: Astro.url.pathname}]} backLink={true}>
 	<Model model={model} />
 </Layout>
