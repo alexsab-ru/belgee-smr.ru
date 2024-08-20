@@ -7,6 +7,7 @@ import Timer from '@/components/Timer/Timer.astro';
 import ModelList from '@/components/Model/ModelList.astro';
 import Model from '@/components/Model/Model.astro';
 import ModelComplectations from '@/components/Model/Complectations.astro';
+import LatestPosts from '@/components/LatestPosts/Index.astro'
 import Callback from '@/components/Callback.astro';
 import Services from '@/components/Services.astro';
 import Contacts from '@/components/Contacts.astro';
@@ -23,8 +24,9 @@ const salonsPhone = salons.map((salon: any) => { return salons[0].phone }).join(
 	<PageTitle />
 	{TIMER_ENDTIME && <Timer endtime={TIMER_ENDTIME} title="До конца акции осталось" subtitle="Подзаголовок" />}
 	<ModelList />
-	{models.length > 0 && models.map((model: any) => model.show && <Model model={model}/>)}
-	{modelsWithComplectations.length > 0 && <ModelComplectations models={modelsWithComplectations} brand={BRAND} />}
+	<!-- {models.length > 0 && models.map((model: any) => model.show && <Model model={model}/>)} -->
+	<!-- {modelsWithComplectations.length > 0 && <ModelComplectations models={modelsWithComplectations} brand={BRAND} />} -->
+	<LatestPosts collectionName="special-offers" title="Специальные предложения" id="specials" class="bg-gray-100" />
 	<Callback bgUrl="/img/konkurenty.webp" />
 	<Services />
 	<Contacts
