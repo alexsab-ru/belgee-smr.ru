@@ -1,0 +1,40 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import Model from '@/components/Model/Model.astro';
+import models from '@/data/models.json';
+export async function getStaticPaths() {
+  return models.filter(m => m.show).map((model) => {
+    return {
+      params: { slug: model.id },
+      props: { model },
+    };
+  });
+}
+
+
+import { BRAND, LEGAL_CITY_WHERE } from '@/const';
+import { breadcrumb } from './index.astro';
+const { model } = Astro.props;
+
+import modelsSections from '@/data/models-sections.yml';
+const currentModel = modelsSections.find(m => m?.id === model.id) || {};
+const sections = currentModel?.sections || [];
+
+---
+<Layout 
+  title={`${BRAND} ${model.name} – фото, цены, комплектации и характеристики ${BRAND} ${model.name} в ${LEGAL_CITY_WHERE}`} 
+  description={model.slogan} 
+  breadcrumb={[breadcrumb, {name: model.name, href: Astro.url.pathname}]} 
+  backLink={true}
+>
+	<Model model={model} />
+  {
+    sections.length ? sections.map(s => (
+      <section class="">
+        <div class="container">
+          <h2>{s.name}</h2>
+        </div>
+      </section>
+    )) : ('')
+  }
+</Layout>
