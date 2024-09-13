@@ -128,7 +128,7 @@ B нaличии нoвый Belgее Х50
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>2</run>
 			<year>2024</year>
 			<price>2515990</price>
 			<credit_discount>135000</credit_discount>
@@ -371,14 +371,14 @@ B нaличии нoвый Belgее Х70
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>2</run>
 			<year>2024</year>
 			<price>3234990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
+			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D5RB319957</vin>
 			<description>ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
@@ -406,7 +406,7 @@ B нaличии нoвый Belgее Х70
 
 Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</description>
 			<images />
-		<priceWithDiscount>3034990</priceWithDiscount><sale_price>3034990</sale_price><url>https://belgee-partner-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-белый-2024/</url></car>
+		<priceWithDiscount>2784990</priceWithDiscount><sale_price>2784990</sale_price><url>https://belgee-partner-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-белый-2024/</url></car>
 		<car>
 			<unique_id>585f95fe7dd5afcca759b417b23a1442</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -422,11 +422,11 @@ B нaличии нoвый Belgее Х70
 			<run>5</run>
 			<year>2024</year>
 			<price>3214990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
+			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D1RB317445</vin>
 			<description>ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
@@ -471,6 +471,6 @@ B нaличии нoвый Belgее Х70
 				<image>https://photo.toyotasever.ru/Y4K8722D1RB317445/bc9b4c49d087ac37cb8be03a9501d5ea.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D1RB317445/649c0a47cb0ddfc6b667b91579c6cec0.jpeg</image>
 			</images>
-		<priceWithDiscount>3014990</priceWithDiscount><sale_price>3014990</sale_price><url>https://belgee-partner-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-черный-2024/</url></car>
+		<priceWithDiscount>2764990</priceWithDiscount><sale_price>2764990</sale_price><url>https://belgee-partner-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-черный-2024/</url></car>
 	</cars>
 </data>
