@@ -68,7 +68,7 @@ B нaличии нoвый Belgее Х50
 			</images>
 		<priceWithDiscount>1993990</priceWithDiscount><sale_price>1993990</sale_price><url>https://belgee-partner-samara.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
 		<car>
-			<unique_id>4349a61a05b72e86627fecd9599f57f6</unique_id>
+			<unique_id>35f0d4e4e64f9b3e67ecb150b26dde64</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -79,7 +79,7 @@ B нaличии нoвый Belgее Х50
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>2</run>
 			<year>2024</year>
 			<price>2610990</price>
 			<credit_discount>215000</credit_discount>
@@ -88,7 +88,7 @@ B нaличии нoвый Belgее Х50
 			<optional_discount>0</optional_discount>
 			<max_discount>400000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB938145</vin>
+			<vin>Y4K8622Z0RB938240</vin>
 			<description>ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
 
 B нaличии нoвый Belgее Х50 
@@ -116,7 +116,7 @@ B нaличии нoвый Belgее Х50
 			<images />
 		<priceWithDiscount>2210990</priceWithDiscount><sale_price>2210990</sale_price><url>https://belgee-partner-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
-			<unique_id>35f0d4e4e64f9b3e67ecb150b26dde64</unique_id>
+			<unique_id>4349a61a05b72e86627fecd9599f57f6</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -136,7 +136,7 @@ B нaличии нoвый Belgее Х50
 			<optional_discount>0</optional_discount>
 			<max_discount>400000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z0RB938240</vin>
+			<vin>Y4K8622Z6RB938145</vin>
 			<description>ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
 
 B нaличии нoвый Belgее Х50 
@@ -885,7 +885,7 @@ B нaличии нoвый Belgее Х70
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>2862990</price>
 			<credit_discount>0</credit_discount>
