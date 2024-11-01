@@ -32,6 +32,6 @@ export default defineConfig({
 	vite: {
 		plugins: [yaml()]
 	},
-	site: 'https://belgee-partner-samara.ru',
+	site: 'https://belgee-smr.ru',
 	base: "/"
 });
