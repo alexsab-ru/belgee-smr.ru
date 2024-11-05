@@ -394,54 +394,6 @@ B нaличии нoвый Belgее Х50
 			<images />
 		<url>https://belgee-smr.ru/cars/belgee-x50-15-amt-150-лс-prestige-серый-2024/</url></car>
 		<car>
-			<unique_id>e9e5a5ec826788a2f4067540aa906116</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>транзит</availability>
-			<custom>растаможен</custom>
-			<run>1</run>
-			<year>2024</year>
-			<price>2610990</price>
-			<credit_discount>215000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>400000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z8RB942973</vin>
-			<description>ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
-
-B нaличии нoвый Belgее Х50 
-
-✅ ГAPAНТИЯ 5 ЛEТ
-
-✅ КPЕДИT БЕЗ ПEРBOНАЧАЛЬНOГО BЗНОCА
-
-✅ РACCPОЧKA
-
-✅ ВЫГОДНЫЙ OБMEН ВАШЕГО АВТOМOБИЛЯ HA HOВЫЙ
-
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый ВеlGее , то в ВеlGее ПАРТНЕР-АВТО САМАРА.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля. 
-
-Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</description>
-			<images />
-		<url>https://belgee-smr.ru/cars/belgee-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
-		<car>
 			<unique_id>d292b5d70306e4cbf48262a91fd59b7a</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -747,7 +699,7 @@ B нaличии нoвый Belgее Х70
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>3237990</price>
 			<credit_discount>320000</credit_discount>
@@ -812,7 +764,7 @@ B нaличии нoвый Belgее Х70
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>3237990</price>
 			<credit_discount>320000</credit_discount>
@@ -1079,7 +1031,7 @@ B нaличии нoвый Belgее Х70
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>3237990</price>
 			<credit_discount>320000</credit_discount>
@@ -1413,7 +1365,7 @@ B нaличии нoвый Belgее Х70
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>2862990</price>
 			<credit_discount>150000</credit_discount>
@@ -1610,7 +1562,26 @@ B нaличии нoвый Belgее Х70
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля. 
 
 Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722Z0RB329159/1fc54f38fa72902d55df951158f53cd9.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z0RB329159/1eba68d20fe706a3970e9db7851353ee.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z0RB329159/391e77d44221469f886f56d77a1cdc51.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z0RB329159/09c721aeb952a47d16c51131e17becd4.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z0RB329159/255f349ffdca98086ec0f50ba50638a0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z0RB329159/2979859a2ab8887dec9fe3169a083190.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z0RB329159/f7d5327c927a117a11de9ee2deb5956a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z0RB329159/cd452e0eb97c18222ff4b143568bb425.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z0RB329159/34a9b9bff258d0fc7dc3562c3d64166c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z0RB329159/cf5e6c883e6b281f171241612cd08943.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z0RB329159/cebfab824e9f69f5bcd683b8b429f3aa.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z0RB329159/d478eda1b9d4fd2fac5091bf4fe90b5b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z0RB329159/a5733c3aee11ce2452792038f4d4f961.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z0RB329159/bf11bd66bbc9ca6b1ed71b1873ded513.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z0RB329159/351d410a8c064d47f572b1c9ef7c518e.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z0RB329159/fe3143e72e9fa45d2f74f4e9220dc7c0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z0RB329159/7bbea17a0f4353033d5cc71ede99e45b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z0RB329159/eb33cdaa19ecf2a1f0860989258953ee.jpeg</image>
+			</images>
 		<url>https://belgee-smr.ru/cars/belgee-x70-15-at-150-лс-style-серый-2024/</url></car>
 		<car>
 			<unique_id>2f3dcf0c3b568b6780bef894c1dc0cfa</unique_id>
@@ -1691,7 +1662,7 @@ B нaличии нoвый Belgее Х70
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>2862990</price>
 			<credit_discount>150000</credit_discount>
