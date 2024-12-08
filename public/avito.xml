@@ -1,5 +1,82 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads><Ad>
+		<Id>62fd4fa1b572264ccfa0686fc322184a</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Улучшим ваше предложение на любую  модель BELGEE! Не верите? Звоните!
+
+ЗИМНИЕ ШИНЫ В ПОДАРОК! 
+
+Только до конца месяца при покупке нового автомобиля Belgee в Партнер-Авто Самара, комплект зимних шин (4 штуки) предоставляется покупателю в подарок !!!
+Данное предложение действует на весь модельный ряд Belgee!!!
+
+
+ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
+
+B нaличии нoвый Belgее Х50 
+
+✅ ГAPAНТИЯ 5 ЛEТ
+
+✅ КPЕДИT БЕЗ ПEРBOНАЧАЛЬНOГО BЗНОCА
+
+✅ РACCPОЧKA
+
+✅ ВЫГОДНЫЙ OБMEН ВАШЕГО АВТOМOБИЛЯ HA HOВЫЙ
+
+
+Цена указана с учётом максимальной выгоды.
+
+Если новый ВеlGее , то в ВеlGее ПАРТНЕР-АВТО САМАРА.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля. 
+
+Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
+		<Price>2690190</Price>
+		<TradeinDiscount>185000</TradeinDiscount>
+		<CreditDiscount>215000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>400000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/722e09181915182d940270c5666956f0.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/80ea21b77d0b6371d58679d8dba11a78.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/5d5147310360bc27d2cdc82807c1397f.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/0160b02e44426eadf4f03380c102f375.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/d7986f31a732b7cdf99a5c7c0a3129ca.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/90334641de69195eb609e072805fc1f7.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/13c87a0319b39e89083ae4a4112135c7.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/3c27552ae29310bb75ab7152f72d4dfe.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/a7686fcff917086c9b2ba6c9e38268de.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/af5ffb9efe49f589ca3fff679bc64c4f.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/cebe0d567b88695fc96858ecc1aea2f8.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/56a83f08c1c3e08452d5244cf8aafd1d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/ff6cb809388f82ba356b357483702628.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/cd4c9dd0d891d8001a89bc6fd3119a91.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/98b118718dc5929197e6f13675b514b6.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/350865d50a56afb3f670715107f0e168.jpeg" />
+		</Images>
+		<Make>Belgee</Make>
+		<Model>X50</Model>
+		<GenerationId>18720814</GenerationId>
+		<ModificationId>18720815</ModificationId>
+		<ComplectationId>18720818</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8622Z7RB943130</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
 		<Id>fa9827f4aa1556ae9324798d1a979a90</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -151,83 +228,6 @@ B нaличии нoвый Belgее Х50
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8622Z8RB943122</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-	</Ad>
-	<Ad>
-		<Id>62fd4fa1b572264ccfa0686fc322184a</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Улучшим ваше предложение на любую  модель BELGEE! Не верите? Звоните!
-
-ЗИМНИЕ ШИНЫ В ПОДАРОК! 
-
-Только до конца месяца при покупке нового автомобиля Belgee в Партнер-Авто Самара, комплект зимних шин (4 штуки) предоставляется покупателю в подарок !!!
-Данное предложение действует на весь модельный ряд Belgee!!!
-
-
-ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
-
-B нaличии нoвый Belgее Х50 
-
-✅ ГAPAНТИЯ 5 ЛEТ
-
-✅ КPЕДИT БЕЗ ПEРBOНАЧАЛЬНOГО BЗНОCА
-
-✅ РACCPОЧKA
-
-✅ ВЫГОДНЫЙ OБMEН ВАШЕГО АВТOМOБИЛЯ HA HOВЫЙ
-
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый ВеlGее , то в ВеlGее ПАРТНЕР-АВТО САМАРА.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля. 
-
-Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
-		<Price>2690190</Price>
-		<TradeinDiscount>185000</TradeinDiscount>
-		<CreditDiscount>215000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>400000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/722e09181915182d940270c5666956f0.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/80ea21b77d0b6371d58679d8dba11a78.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/5d5147310360bc27d2cdc82807c1397f.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/0160b02e44426eadf4f03380c102f375.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/d7986f31a732b7cdf99a5c7c0a3129ca.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/90334641de69195eb609e072805fc1f7.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/13c87a0319b39e89083ae4a4112135c7.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/3c27552ae29310bb75ab7152f72d4dfe.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/a7686fcff917086c9b2ba6c9e38268de.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/af5ffb9efe49f589ca3fff679bc64c4f.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/cebe0d567b88695fc96858ecc1aea2f8.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/56a83f08c1c3e08452d5244cf8aafd1d.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/ff6cb809388f82ba356b357483702628.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/cd4c9dd0d891d8001a89bc6fd3119a91.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/98b118718dc5929197e6f13675b514b6.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/350865d50a56afb3f670715107f0e168.jpeg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X50</Model>
-		<GenerationId>18720814</GenerationId>
-		<ModificationId>18720815</ModificationId>
-		<ComplectationId>18720818</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z7RB943130</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -760,84 +760,6 @@ B нaличии нoвый Belgее Х50
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>af1b288d3f473cbf98b5566c4b58c021</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Улучшим ваше предложение на любую  модель BELGEE! Не верите? Звоните!
-
-ЗИМНИЕ ШИНЫ В ПОДАРОК! 
-
-Только до конца месяца при покупке нового автомобиля Belgee в Партнер-Авто Самара, комплект зимних шин (4 штуки) предоставляется покупателю в подарок !!!
-Данное предложение действует на весь модельный ряд Belgee!!!
-
-ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
-
-B нaличии нoвый Belgее Х50 
-
-✅ ГAPAНТИЯ 5 ЛEТ
-
-✅ КPЕДИT БЕЗ ПEРBOНАЧАЛЬНOГО BЗНОCА
-
-✅ РACCPОЧKA
-
-✅ ВЫГОДНЫЙ OБMEН ВАШЕГО АВТOМOБИЛЯ HA HOВЫЙ
-
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый ВеlGее , то в ВеlGее ПАРТНЕР-АВТО САМАРА.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля. 
-
-Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
-		<Price>2590190</Price>
-		<TradeinDiscount>185000</TradeinDiscount>
-		<CreditDiscount>135000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>320000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/f6f69aaedc53c3f866ebda0e70ffba80.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/c55ec698de59e8976cc8a6ad264a0bc7.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/0e3e03f17a813197fc25323bc991458d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/2b62b92501322c64ed58643e5f898332.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/ca8bcd613688fa8d61964efbeb518d44.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/58c1c89320d1764b880a0e75668b4078.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/1d279627784980fc6e2acbd1bdf27306.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/55a1d32f0ae1c92b399daeec4a3496c0.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/1c3765d9ce83a64c3c33f17bbe24205b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/bc60c26f8953dc15e11c1c0b230f8729.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/a2484842c1e3ee43b792e1cf5d92057d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/705c1b205fb44851a87bae4ef1da68bb.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/db0abbef510181484476a7c92f74ece4.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/50584f97aad14c15178613b26a1ed294.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/05ad11fee4e57da2d3bfe0659c14ad83.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/f50e8f4632a6c3ce44c74f1fc041b93f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/c48b96201a09367442c24b67128cddff.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/1456a8d35f356e10a5b3edac0b21985f.jpg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X50</Model>
-		<GenerationId>18720814</GenerationId>
-		<ModificationId>18720815</ModificationId>
-		<ComplectationId>18720817</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z8RB943170</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-	</Ad>
-	<Ad>
 		<Id>dcd0b1e8ec522e5f0d0dc739bccd5416</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -913,6 +835,84 @@ B нaличии нoвый Belgее Х50
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8622Z7RB943208</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>af1b288d3f473cbf98b5566c4b58c021</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Улучшим ваше предложение на любую  модель BELGEE! Не верите? Звоните!
+
+ЗИМНИЕ ШИНЫ В ПОДАРОК! 
+
+Только до конца месяца при покупке нового автомобиля Belgee в Партнер-Авто Самара, комплект зимних шин (4 штуки) предоставляется покупателю в подарок !!!
+Данное предложение действует на весь модельный ряд Belgee!!!
+
+ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
+
+B нaличии нoвый Belgее Х50 
+
+✅ ГAPAНТИЯ 5 ЛEТ
+
+✅ КPЕДИT БЕЗ ПEРBOНАЧАЛЬНOГО BЗНОCА
+
+✅ РACCPОЧKA
+
+✅ ВЫГОДНЫЙ OБMEН ВАШЕГО АВТOМOБИЛЯ HA HOВЫЙ
+
+
+Цена указана с учётом максимальной выгоды.
+
+Если новый ВеlGее , то в ВеlGее ПАРТНЕР-АВТО САМАРА.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля. 
+
+Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
+		<Price>2590190</Price>
+		<TradeinDiscount>185000</TradeinDiscount>
+		<CreditDiscount>135000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>320000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/f6f69aaedc53c3f866ebda0e70ffba80.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/c55ec698de59e8976cc8a6ad264a0bc7.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/0e3e03f17a813197fc25323bc991458d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/2b62b92501322c64ed58643e5f898332.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/ca8bcd613688fa8d61964efbeb518d44.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/58c1c89320d1764b880a0e75668b4078.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/1d279627784980fc6e2acbd1bdf27306.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/55a1d32f0ae1c92b399daeec4a3496c0.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/1c3765d9ce83a64c3c33f17bbe24205b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/bc60c26f8953dc15e11c1c0b230f8729.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/a2484842c1e3ee43b792e1cf5d92057d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/705c1b205fb44851a87bae4ef1da68bb.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/db0abbef510181484476a7c92f74ece4.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/50584f97aad14c15178613b26a1ed294.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/05ad11fee4e57da2d3bfe0659c14ad83.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/f50e8f4632a6c3ce44c74f1fc041b93f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/c48b96201a09367442c24b67128cddff.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/1456a8d35f356e10a5b3edac0b21985f.jpg" />
+		</Images>
+		<Make>Belgee</Make>
+		<Model>X50</Model>
+		<GenerationId>18720814</GenerationId>
+		<ModificationId>18720815</ModificationId>
+		<ComplectationId>18720817</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8622Z8RB943170</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -1112,84 +1112,6 @@ B нaличии нoвый Belgее Х50
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>6a853764f9bdc4b14d9bcde7e230858f</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Улучшим ваше предложение на любую  модель BELGEE! Не верите? Звоните!
-
-ЗИМНИЕ ШИНЫ В ПОДАРОК! 
-
-Только до конца месяца при покупке нового автомобиля Belgee в Партнер-Авто Самара, комплект зимних шин (4 штуки) предоставляется покупателю в подарок !!!
-Данное предложение действует на весь модельный ряд Belgee!!!
-
-ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
-
-B нaличии нoвый Belgее Х70 
-
-✅ ГAPAНТИЯ 5 ЛEТ
-
-✅ КPЕДИT БЕЗ ПEРBOНАЧАЛЬНOГО BЗНОCА
-
-✅ РACCPОЧKA
-
-✅ ВЫГОДНЫЙ OБMEН ВАШЕГО АВТOМOБИЛЯ HA HOВЫЙ
-
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый ВеlGее , то в ВеlGее ПАРТНЕР-АВТО САМАРА.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля. 
-
-Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
-		<Price>3321190</Price>
-		<TradeinDiscount>250000</TradeinDiscount>
-		<CreditDiscount>320000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>570000</MaxDiscount>
-		<Color>Красный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/bb36eac94abe55c2fe42a65f7f8b8c46.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/64f56425b4008a4dc06baa6099264d5a.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/8bdf80776d258469f7613eae930aca58.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/a53cca65c8fd89ad2bfeb09c98a5e1da.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/d7c762d85cd8f9457a029270cdf656b3.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/13f5aa92443c38498421334ae448dad0.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/15573050b056ea673be03ddd10a8af17.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/ee576a23cbb5b665c2fca7c567eec0e5.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/74955c4353d542008b93bab12303e87e.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/f05df1feb41c8e7f0ca507f410522d36.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/6ab26dba9022bff77d38782ac9bffe45.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/34c8449f464f30d75a1f7bf1b2ece1ff.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/a46a07abe6ecd3cf04a98fec8cdb0ccb.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/803c91d909b3d9cbff51d06abdaf3950.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/929552969bae17882d34de78e3075ee6.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/1b7b91c255a243d376a5ea99ba5c43f3.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/904008d3b2589bc1de9cfdee068f84a3.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/0cef31474b58e47720641de1561f312f.jpeg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X70</Model>
-		<GenerationId>22038108</GenerationId>
-		<ModificationId>22038113</ModificationId>
-		<ComplectationId>22060428</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8722D8RB323565</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-	</Ad>
-	<Ad>
 		<Id>b07e8472d2c536b6d895ef52902d470d</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -1343,6 +1265,84 @@ B нaличии нoвый Belgее Х70
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8722D3RB328365</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>6a853764f9bdc4b14d9bcde7e230858f</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Улучшим ваше предложение на любую  модель BELGEE! Не верите? Звоните!
+
+ЗИМНИЕ ШИНЫ В ПОДАРОК! 
+
+Только до конца месяца при покупке нового автомобиля Belgee в Партнер-Авто Самара, комплект зимних шин (4 штуки) предоставляется покупателю в подарок !!!
+Данное предложение действует на весь модельный ряд Belgee!!!
+
+ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
+
+B нaличии нoвый Belgее Х70 
+
+✅ ГAPAНТИЯ 5 ЛEТ
+
+✅ КPЕДИT БЕЗ ПEРBOНАЧАЛЬНOГО BЗНОCА
+
+✅ РACCPОЧKA
+
+✅ ВЫГОДНЫЙ OБMEН ВАШЕГО АВТOМOБИЛЯ HA HOВЫЙ
+
+
+Цена указана с учётом максимальной выгоды.
+
+Если новый ВеlGее , то в ВеlGее ПАРТНЕР-АВТО САМАРА.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля. 
+
+Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
+		<Price>3321190</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount>320000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>570000</MaxDiscount>
+		<Color>Красный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/bb36eac94abe55c2fe42a65f7f8b8c46.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/64f56425b4008a4dc06baa6099264d5a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/8bdf80776d258469f7613eae930aca58.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/a53cca65c8fd89ad2bfeb09c98a5e1da.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/d7c762d85cd8f9457a029270cdf656b3.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/13f5aa92443c38498421334ae448dad0.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/15573050b056ea673be03ddd10a8af17.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/ee576a23cbb5b665c2fca7c567eec0e5.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/74955c4353d542008b93bab12303e87e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/f05df1feb41c8e7f0ca507f410522d36.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/6ab26dba9022bff77d38782ac9bffe45.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/34c8449f464f30d75a1f7bf1b2ece1ff.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/a46a07abe6ecd3cf04a98fec8cdb0ccb.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/803c91d909b3d9cbff51d06abdaf3950.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/929552969bae17882d34de78e3075ee6.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/1b7b91c255a243d376a5ea99ba5c43f3.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/904008d3b2589bc1de9cfdee068f84a3.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/0cef31474b58e47720641de1561f312f.jpeg" />
+		</Images>
+		<Make>Belgee</Make>
+		<Model>X70</Model>
+		<GenerationId>22038108</GenerationId>
+		<ModificationId>22038113</ModificationId>
+		<ComplectationId>22060428</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8722D8RB323565</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -2081,6 +2081,65 @@ B нaличии нoвый Belgее Х70
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
+		<Id>4129acce9e7df36c2d70323139d0c182</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Улучшим ваше предложение на любую  модель BELGEE! Не верите? Звоните!
+
+ЗИМНИЕ ШИНЫ В ПОДАРОК! 
+
+Только до конца месяца при покупке нового автомобиля Belgee в Партнер-Авто Самара, комплект зимних шин (4 штуки) предоставляется покупателю в подарок !!!
+Данное предложение действует на весь модельный ряд Belgee!!!
+
+ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
+
+B нaличии нoвый Belgее Х70 
+
+✅ ГAPAНТИЯ 5 ЛEТ
+
+✅ КPЕДИT БЕЗ ПEРBOНАЧАЛЬНOГО BЗНОCА
+
+✅ РACCPОЧKA
+
+✅ ВЫГОДНЫЙ OБMEН ВАШЕГО АВТOМOБИЛЯ HA HOВЫЙ
+
+
+Цена указана с учётом максимальной выгоды.
+
+Если новый ВеlGее , то в ВеlGее ПАРТНЕР-АВТО САМАРА.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля. 
+
+Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
+		<Price>2946190</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount>150000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>400000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images />
+		<Make>Belgee</Make>
+		<Model>X70</Model>
+		<GenerationId>22038108</GenerationId>
+		<ModificationId>22060438</ModificationId>
+		<ComplectationId>22060440</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8722Z3RB330600</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
 		<Id>45fc754348637088c72b46e2ededa49c</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -2646,8 +2705,8 @@ B нaличии нoвый Belgее Х70
 		<VIN>Y4K8722Z8RB329166</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
-	<Ad>
-		<Id>4129acce9e7df36c2d70323139d0c182</Id>
+<Ad>
+		<Id>62fd4fa1b572264ccfa0686fc322184b</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -2659,9 +2718,10 @@ B нaличии нoвый Belgее Х70
 Только до конца месяца при покупке нового автомобиля Belgee в Партнер-Авто Самара, комплект зимних шин (4 штуки) предоставляется покупателю в подарок !!!
 Данное предложение действует на весь модельный ряд Belgee!!!
 
+
 ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
 
-B нaличии нoвый Belgее Х70 
+B нaличии нoвый Belgее Х50 
 
 ✅ ГAPAНТИЯ 5 ЛEТ
 
@@ -2683,29 +2743,46 @@ B нaличии нoвый Belgее Х70
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля. 
 
 Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
-		<Price>2946190</Price>
-		<TradeinDiscount>250000</TradeinDiscount>
-		<CreditDiscount>150000</CreditDiscount>
+		<Price>2690190</Price>
+		<TradeinDiscount>185000</TradeinDiscount>
+		<CreditDiscount>215000</CreditDiscount>
 		<InsuranceDiscount />
 		<MaxDiscount>400000</MaxDiscount>
-		<Color>Серый</Color>
-		<Images />
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/722e09181915182d940270c5666956f0.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/80ea21b77d0b6371d58679d8dba11a78.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/5d5147310360bc27d2cdc82807c1397f.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/0160b02e44426eadf4f03380c102f375.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/d7986f31a732b7cdf99a5c7c0a3129ca.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/90334641de69195eb609e072805fc1f7.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/13c87a0319b39e89083ae4a4112135c7.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/3c27552ae29310bb75ab7152f72d4dfe.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/a7686fcff917086c9b2ba6c9e38268de.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/af5ffb9efe49f589ca3fff679bc64c4f.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/cebe0d567b88695fc96858ecc1aea2f8.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/56a83f08c1c3e08452d5244cf8aafd1d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/ff6cb809388f82ba356b357483702628.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/cd4c9dd0d891d8001a89bc6fd3119a91.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/98b118718dc5929197e6f13675b514b6.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/350865d50a56afb3f670715107f0e168.jpeg" />
+		</Images>
 		<Make>Belgee</Make>
-		<Model>X70</Model>
-		<GenerationId>22038108</GenerationId>
-		<ModificationId>22060438</ModificationId>
-		<ComplectationId>22060440</ComplectationId>
+		<Model>X50</Model>
+		<GenerationId>18720814</GenerationId>
+		<ModificationId>18720815</ModificationId>
+		<ComplectationId>18720818</ComplectationId>
 		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
+		<Transmission>Робот</Transmission>
 		<Year>2024</Year>
 		<Doors>5</Doors>
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>Y4K8722Z3RB330600</VIN>
+		<VIN>Y4K8622Z7RB943131</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
-<Ad>
+	<Ad>
 		<Id>fa9827f4aa1556ae9324798d1a979a91</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -2857,83 +2934,6 @@ B нaличии нoвый Belgее Х50
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8622Z8RB943123</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-	</Ad>
-	<Ad>
-		<Id>62fd4fa1b572264ccfa0686fc322184b</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Улучшим ваше предложение на любую  модель BELGEE! Не верите? Звоните!
-
-ЗИМНИЕ ШИНЫ В ПОДАРОК! 
-
-Только до конца месяца при покупке нового автомобиля Belgee в Партнер-Авто Самара, комплект зимних шин (4 штуки) предоставляется покупателю в подарок !!!
-Данное предложение действует на весь модельный ряд Belgee!!!
-
-
-ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
-
-B нaличии нoвый Belgее Х50 
-
-✅ ГAPAНТИЯ 5 ЛEТ
-
-✅ КPЕДИT БЕЗ ПEРBOНАЧАЛЬНOГО BЗНОCА
-
-✅ РACCPОЧKA
-
-✅ ВЫГОДНЫЙ OБMEН ВАШЕГО АВТOМOБИЛЯ HA HOВЫЙ
-
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый ВеlGее , то в ВеlGее ПАРТНЕР-АВТО САМАРА.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля. 
-
-Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
-		<Price>2690190</Price>
-		<TradeinDiscount>185000</TradeinDiscount>
-		<CreditDiscount>215000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>400000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/722e09181915182d940270c5666956f0.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/80ea21b77d0b6371d58679d8dba11a78.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/5d5147310360bc27d2cdc82807c1397f.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/0160b02e44426eadf4f03380c102f375.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/d7986f31a732b7cdf99a5c7c0a3129ca.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/90334641de69195eb609e072805fc1f7.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/13c87a0319b39e89083ae4a4112135c7.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/3c27552ae29310bb75ab7152f72d4dfe.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/a7686fcff917086c9b2ba6c9e38268de.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/af5ffb9efe49f589ca3fff679bc64c4f.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/cebe0d567b88695fc96858ecc1aea2f8.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/56a83f08c1c3e08452d5244cf8aafd1d.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/ff6cb809388f82ba356b357483702628.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/cd4c9dd0d891d8001a89bc6fd3119a91.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/98b118718dc5929197e6f13675b514b6.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943130/350865d50a56afb3f670715107f0e168.jpeg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X50</Model>
-		<GenerationId>18720814</GenerationId>
-		<ModificationId>18720815</ModificationId>
-		<ComplectationId>18720818</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z7RB943131</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -3466,84 +3466,6 @@ B нaличии нoвый Belgее Х50
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>0f1b288d3f473cbf98b5566c4b58c022</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Улучшим ваше предложение на любую  модель BELGEE! Не верите? Звоните!
-
-ЗИМНИЕ ШИНЫ В ПОДАРОК! 
-
-Только до конца месяца при покупке нового автомобиля Belgee в Партнер-Авто Самара, комплект зимних шин (4 штуки) предоставляется покупателю в подарок !!!
-Данное предложение действует на весь модельный ряд Belgee!!!
-
-ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
-
-B нaличии нoвый Belgее Х50 
-
-✅ ГAPAНТИЯ 5 ЛEТ
-
-✅ КPЕДИT БЕЗ ПEРBOНАЧАЛЬНOГО BЗНОCА
-
-✅ РACCPОЧKA
-
-✅ ВЫГОДНЫЙ OБMEН ВАШЕГО АВТOМOБИЛЯ HA HOВЫЙ
-
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый ВеlGее , то в ВеlGее ПАРТНЕР-АВТО САМАРА.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля. 
-
-Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
-		<Price>2590190</Price>
-		<TradeinDiscount>185000</TradeinDiscount>
-		<CreditDiscount>135000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>320000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/f6f69aaedc53c3f866ebda0e70ffba80.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/c55ec698de59e8976cc8a6ad264a0bc7.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/0e3e03f17a813197fc25323bc991458d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/2b62b92501322c64ed58643e5f898332.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/ca8bcd613688fa8d61964efbeb518d44.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/58c1c89320d1764b880a0e75668b4078.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/1d279627784980fc6e2acbd1bdf27306.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/55a1d32f0ae1c92b399daeec4a3496c0.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/1c3765d9ce83a64c3c33f17bbe24205b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/bc60c26f8953dc15e11c1c0b230f8729.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/a2484842c1e3ee43b792e1cf5d92057d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/705c1b205fb44851a87bae4ef1da68bb.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/db0abbef510181484476a7c92f74ece4.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/50584f97aad14c15178613b26a1ed294.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/05ad11fee4e57da2d3bfe0659c14ad83.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/f50e8f4632a6c3ce44c74f1fc041b93f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/c48b96201a09367442c24b67128cddff.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/1456a8d35f356e10a5b3edac0b21985f.jpg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X50</Model>
-		<GenerationId>18720814</GenerationId>
-		<ModificationId>18720815</ModificationId>
-		<ComplectationId>18720817</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z8RB943171</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-	</Ad>
-	<Ad>
 		<Id>dcd0b1e8ec522e5f0d0dc739bccd5417</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -3619,6 +3541,84 @@ B нaличии нoвый Belgее Х50
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8622Z7RB943209</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>0f1b288d3f473cbf98b5566c4b58c022</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Улучшим ваше предложение на любую  модель BELGEE! Не верите? Звоните!
+
+ЗИМНИЕ ШИНЫ В ПОДАРОК! 
+
+Только до конца месяца при покупке нового автомобиля Belgee в Партнер-Авто Самара, комплект зимних шин (4 штуки) предоставляется покупателю в подарок !!!
+Данное предложение действует на весь модельный ряд Belgee!!!
+
+ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
+
+B нaличии нoвый Belgее Х50 
+
+✅ ГAPAНТИЯ 5 ЛEТ
+
+✅ КPЕДИT БЕЗ ПEРBOНАЧАЛЬНOГО BЗНОCА
+
+✅ РACCPОЧKA
+
+✅ ВЫГОДНЫЙ OБMEН ВАШЕГО АВТOМOБИЛЯ HA HOВЫЙ
+
+
+Цена указана с учётом максимальной выгоды.
+
+Если новый ВеlGее , то в ВеlGее ПАРТНЕР-АВТО САМАРА.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля. 
+
+Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
+		<Price>2590190</Price>
+		<TradeinDiscount>185000</TradeinDiscount>
+		<CreditDiscount>135000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>320000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/f6f69aaedc53c3f866ebda0e70ffba80.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/c55ec698de59e8976cc8a6ad264a0bc7.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/0e3e03f17a813197fc25323bc991458d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/2b62b92501322c64ed58643e5f898332.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/ca8bcd613688fa8d61964efbeb518d44.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/58c1c89320d1764b880a0e75668b4078.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/1d279627784980fc6e2acbd1bdf27306.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/55a1d32f0ae1c92b399daeec4a3496c0.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/1c3765d9ce83a64c3c33f17bbe24205b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/bc60c26f8953dc15e11c1c0b230f8729.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/a2484842c1e3ee43b792e1cf5d92057d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/705c1b205fb44851a87bae4ef1da68bb.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/db0abbef510181484476a7c92f74ece4.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/50584f97aad14c15178613b26a1ed294.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/05ad11fee4e57da2d3bfe0659c14ad83.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/f50e8f4632a6c3ce44c74f1fc041b93f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/c48b96201a09367442c24b67128cddff.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943170/1456a8d35f356e10a5b3edac0b21985f.jpg" />
+		</Images>
+		<Make>Belgee</Make>
+		<Model>X50</Model>
+		<GenerationId>18720814</GenerationId>
+		<ModificationId>18720815</ModificationId>
+		<ComplectationId>18720817</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8622Z8RB943171</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -3818,84 +3818,6 @@ B нaличии нoвый Belgее Х50
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>6a853764f9bdc4b14d9bcde7e230858g</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Улучшим ваше предложение на любую  модель BELGEE! Не верите? Звоните!
-
-ЗИМНИЕ ШИНЫ В ПОДАРОК! 
-
-Только до конца месяца при покупке нового автомобиля Belgee в Партнер-Авто Самара, комплект зимних шин (4 штуки) предоставляется покупателю в подарок !!!
-Данное предложение действует на весь модельный ряд Belgee!!!
-
-ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
-
-B нaличии нoвый Belgее Х70 
-
-✅ ГAPAНТИЯ 5 ЛEТ
-
-✅ КPЕДИT БЕЗ ПEРBOНАЧАЛЬНOГО BЗНОCА
-
-✅ РACCPОЧKA
-
-✅ ВЫГОДНЫЙ OБMEН ВАШЕГО АВТOМOБИЛЯ HA HOВЫЙ
-
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый ВеlGее , то в ВеlGее ПАРТНЕР-АВТО САМАРА.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля. 
-
-Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
-		<Price>3321190</Price>
-		<TradeinDiscount>250000</TradeinDiscount>
-		<CreditDiscount>320000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>570000</MaxDiscount>
-		<Color>Красный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/bb36eac94abe55c2fe42a65f7f8b8c46.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/64f56425b4008a4dc06baa6099264d5a.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/8bdf80776d258469f7613eae930aca58.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/a53cca65c8fd89ad2bfeb09c98a5e1da.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/d7c762d85cd8f9457a029270cdf656b3.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/13f5aa92443c38498421334ae448dad0.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/15573050b056ea673be03ddd10a8af17.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/ee576a23cbb5b665c2fca7c567eec0e5.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/74955c4353d542008b93bab12303e87e.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/f05df1feb41c8e7f0ca507f410522d36.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/6ab26dba9022bff77d38782ac9bffe45.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/34c8449f464f30d75a1f7bf1b2ece1ff.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/a46a07abe6ecd3cf04a98fec8cdb0ccb.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/803c91d909b3d9cbff51d06abdaf3950.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/929552969bae17882d34de78e3075ee6.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/1b7b91c255a243d376a5ea99ba5c43f3.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/904008d3b2589bc1de9cfdee068f84a3.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/0cef31474b58e47720641de1561f312f.jpeg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X70</Model>
-		<GenerationId>22038108</GenerationId>
-		<ModificationId>22038113</ModificationId>
-		<ComplectationId>22060428</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8722D8RB323566</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-	</Ad>
-	<Ad>
 		<Id>e454c050814156945ea4f6b1a4095fab</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -3971,6 +3893,84 @@ B нaличии нoвый Belgее Х70
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8722D3RB328366</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>6a853764f9bdc4b14d9bcde7e230858g</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Улучшим ваше предложение на любую  модель BELGEE! Не верите? Звоните!
+
+ЗИМНИЕ ШИНЫ В ПОДАРОК! 
+
+Только до конца месяца при покупке нового автомобиля Belgee в Партнер-Авто Самара, комплект зимних шин (4 штуки) предоставляется покупателю в подарок !!!
+Данное предложение действует на весь модельный ряд Belgee!!!
+
+ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
+
+B нaличии нoвый Belgее Х70 
+
+✅ ГAPAНТИЯ 5 ЛEТ
+
+✅ КPЕДИT БЕЗ ПEРBOНАЧАЛЬНOГО BЗНОCА
+
+✅ РACCPОЧKA
+
+✅ ВЫГОДНЫЙ OБMEН ВАШЕГО АВТOМOБИЛЯ HA HOВЫЙ
+
+
+Цена указана с учётом максимальной выгоды.
+
+Если новый ВеlGее , то в ВеlGее ПАРТНЕР-АВТО САМАРА.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля. 
+
+Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
+		<Price>3321190</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount>320000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>570000</MaxDiscount>
+		<Color>Красный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/bb36eac94abe55c2fe42a65f7f8b8c46.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/64f56425b4008a4dc06baa6099264d5a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/8bdf80776d258469f7613eae930aca58.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/a53cca65c8fd89ad2bfeb09c98a5e1da.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/d7c762d85cd8f9457a029270cdf656b3.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/13f5aa92443c38498421334ae448dad0.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/15573050b056ea673be03ddd10a8af17.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/ee576a23cbb5b665c2fca7c567eec0e5.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/74955c4353d542008b93bab12303e87e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/f05df1feb41c8e7f0ca507f410522d36.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/6ab26dba9022bff77d38782ac9bffe45.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/34c8449f464f30d75a1f7bf1b2ece1ff.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/a46a07abe6ecd3cf04a98fec8cdb0ccb.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/803c91d909b3d9cbff51d06abdaf3950.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/929552969bae17882d34de78e3075ee6.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/1b7b91c255a243d376a5ea99ba5c43f3.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/904008d3b2589bc1de9cfdee068f84a3.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D8RB323565/0cef31474b58e47720641de1561f312f.jpeg" />
+		</Images>
+		<Make>Belgee</Make>
+		<Model>X70</Model>
+		<GenerationId>22038108</GenerationId>
+		<ModificationId>22038113</ModificationId>
+		<ComplectationId>22060428</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8722D8RB323566</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
@@ -4632,6 +4632,65 @@ B нaличии нoвый Belgее Х70
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
+		<Id>4129acce9e7df36c2d70323139d0c183</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Улучшим ваше предложение на любую  модель BELGEE! Не верите? Звоните!
+
+ЗИМНИЕ ШИНЫ В ПОДАРОК! 
+
+Только до конца месяца при покупке нового автомобиля Belgee в Партнер-Авто Самара, комплект зимних шин (4 штуки) предоставляется покупателю в подарок !!!
+Данное предложение действует на весь модельный ряд Belgee!!!
+
+ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
+
+B нaличии нoвый Belgее Х70 
+
+✅ ГAPAНТИЯ 5 ЛEТ
+
+✅ КPЕДИT БЕЗ ПEРBOНАЧАЛЬНOГО BЗНОCА
+
+✅ РACCPОЧKA
+
+✅ ВЫГОДНЫЙ OБMEН ВАШЕГО АВТOМOБИЛЯ HA HOВЫЙ
+
+
+Цена указана с учётом максимальной выгоды.
+
+Если новый ВеlGее , то в ВеlGее ПАРТНЕР-АВТО САМАРА.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля. 
+
+Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
+		<Price>2946190</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount>150000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>400000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images />
+		<Make>Belgee</Make>
+		<Model>X70</Model>
+		<GenerationId>22038108</GenerationId>
+		<ModificationId>22060438</ModificationId>
+		<ComplectationId>22060440</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8722Z3RB330601</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
 		<Id>45fc754348637088c72b46e2ededa49d</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -5117,65 +5176,6 @@ B нaличии нoвый Belgее Х70
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8722Z8RB329167</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-	</Ad>
-	<Ad>
-		<Id>4129acce9e7df36c2d70323139d0c183</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Улучшим ваше предложение на любую  модель BELGEE! Не верите? Звоните!
-
-ЗИМНИЕ ШИНЫ В ПОДАРОК! 
-
-Только до конца месяца при покупке нового автомобиля Belgee в Партнер-Авто Самара, комплект зимних шин (4 штуки) предоставляется покупателю в подарок !!!
-Данное предложение действует на весь модельный ряд Belgee!!!
-
-ПAPТНЕP-АВТО САМАРА  нoвый официальный дилер ВelGеe в горoде Самара.
-
-B нaличии нoвый Belgее Х70 
-
-✅ ГAPAНТИЯ 5 ЛEТ
-
-✅ КPЕДИT БЕЗ ПEРBOНАЧАЛЬНOГО BЗНОCА
-
-✅ РACCPОЧKA
-
-✅ ВЫГОДНЫЙ OБMEН ВАШЕГО АВТOМOБИЛЯ HA HOВЫЙ
-
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый ВеlGее , то в ВеlGее ПАРТНЕР-АВТО САМАРА.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля. 
-
-Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
-		<Price>2946190</Price>
-		<TradeinDiscount>250000</TradeinDiscount>
-		<CreditDiscount>150000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>400000</MaxDiscount>
-		<Color>Серый</Color>
-		<Images />
-		<Make>Belgee</Make>
-		<Model>X70</Model>
-		<GenerationId>22038108</GenerationId>
-		<ModificationId>22060438</ModificationId>
-		<ComplectationId>22060440</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8722Z3RB330601</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 </Ads>
