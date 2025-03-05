@@ -226,49 +226,6 @@ B нaличии нoвый Belgее Х50
 			</images>
 		<max_discount>380000</max_discount><priceWithDiscount>2310190</priceWithDiscount><sale_price>2310190</sale_price><url>https://belgee-smr.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
-			<unique_id>dcd0b1e8ec522e5f0d0dc739bccd5416</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>2590190</price>
-			<credit_discount>180000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z7RB943208</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/c8da759a4deff6510f7a5e6201d5f7fc.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/c852141a5ee0d415622f733c16bafc4e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/ec6a4923a5787716784a5f50bd9f0ba7.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/6d071bfea78ff54f3361f627812bed14.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/5efacc4c215c80797fb027a54d60559a.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/b7f788cc76367ece541691704105f673.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/c2b1f71026c0e12fc51b776dd719e97a.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/8e0bb88d8fde25912f821559151bad67.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/ec33f29b790611342accb115a2f5c816.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/ed1567b65cbbdf4aa58c93923801322a.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/5a5f20eb733998ce754022715c8f3c8d.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/dcc0efa1b62beb735e30cf93ef4e7082.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/f9b1ec1a8524fbccaf35d9a5f721f973.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/1ac5bd4bbb7ea95972c4ca31f5a789fd.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/dee2d57dfc7ac542c7376af84fd0e8ba.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/a50513f7d5abc49d409f1c2e9a04c6fc.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/f83177e4352215b3f9d9414832226267.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/43401ac535cf4fc4961c6735de4a4d29.jpg</image>
-			</images>
-		<max_discount>380000</max_discount><priceWithDiscount>2210190</priceWithDiscount><sale_price>2210190</sale_price><url>https://belgee-smr.ru/cars/belgee-x50-15-amt-150-лс-style-белый-2024/</url></car>
-		<car>
 			<unique_id>af1b288d3f473cbf98b5566c4b58c021</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -312,14 +269,14 @@ B нaличии нoвый Belgее Х50
 			</images>
 		<max_discount>380000</max_discount><priceWithDiscount>2210190</priceWithDiscount><sale_price>2210190</sale_price><url>https://belgee-smr.ru/cars/belgee-x50-15-amt-150-лс-style-белый-2024/</url></car>
 		<car>
-			<unique_id>a93b44bec72476d215027327e534355c</unique_id>
+			<unique_id>dcd0b1e8ec522e5f0d0dc739bccd5416</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
 			<complectation_name>Style</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Черный</color>
+			<color>Белый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -331,12 +288,29 @@ B нaличии нoвый Belgее Х50
 			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z3RB943285</vin>
+			<vin>Y4K8622Z7RB943208</vin>
 			<description />
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3RB943285/86b55462358cabcf8c7dc6b3d4cc6335.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/c8da759a4deff6510f7a5e6201d5f7fc.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/c852141a5ee0d415622f733c16bafc4e.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/ec6a4923a5787716784a5f50bd9f0ba7.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/6d071bfea78ff54f3361f627812bed14.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/5efacc4c215c80797fb027a54d60559a.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/b7f788cc76367ece541691704105f673.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/c2b1f71026c0e12fc51b776dd719e97a.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/8e0bb88d8fde25912f821559151bad67.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/ec33f29b790611342accb115a2f5c816.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/ed1567b65cbbdf4aa58c93923801322a.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/5a5f20eb733998ce754022715c8f3c8d.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/dcc0efa1b62beb735e30cf93ef4e7082.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/f9b1ec1a8524fbccaf35d9a5f721f973.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/1ac5bd4bbb7ea95972c4ca31f5a789fd.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/dee2d57dfc7ac542c7376af84fd0e8ba.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/a50513f7d5abc49d409f1c2e9a04c6fc.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/f83177e4352215b3f9d9414832226267.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/43401ac535cf4fc4961c6735de4a4d29.jpg</image>
 			</images>
-		<max_discount>380000</max_discount><priceWithDiscount>2210190</priceWithDiscount><sale_price>2210190</sale_price><url>https://belgee-smr.ru/cars/belgee-x50-15-amt-150-лс-style-черный-2024/</url></car>
+		<max_discount>380000</max_discount><priceWithDiscount>2210190</priceWithDiscount><sale_price>2210190</sale_price><url>https://belgee-smr.ru/cars/belgee-x50-15-amt-150-лс-style-белый-2024/</url></car>
 		<car>
 			<unique_id>82780ed5456d4c10b05f93eb0cb8577d</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -361,6 +335,32 @@ B нaличии нoвый Belgее Х50
 			<description />
 			<images>
 				<image>https://photo.toyotasever.ru/Y4K8622Z3RB943321/be7e22146702b0db702f46c83fcb9e31.jpeg</image>
+			</images>
+		<max_discount>380000</max_discount><priceWithDiscount>2210190</priceWithDiscount><sale_price>2210190</sale_price><url>https://belgee-smr.ru/cars/belgee-x50-15-amt-150-лс-style-черный-2024/</url></car>
+		<car>
+			<unique_id>a93b44bec72476d215027327e534355c</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Style</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>2590190</price>
+			<credit_discount>180000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z3RB943285</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z3RB943285/86b55462358cabcf8c7dc6b3d4cc6335.jpeg</image>
 			</images>
 		<max_discount>380000</max_discount><priceWithDiscount>2210190</priceWithDiscount><sale_price>2210190</sale_price><url>https://belgee-smr.ru/cars/belgee-x50-15-amt-150-лс-style-черный-2024/</url></car>
 		<car>
