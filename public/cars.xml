@@ -162,7 +162,7 @@ B нaличии нoвый Belgее Х50
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>2</run>
+			<run>9</run>
 			<year>2024</year>
 			<price>2690190</price>
 			<credit_discount>180000</credit_discount>
@@ -268,32 +268,6 @@ B нaличии нoвый Belgее Х50
 				<image>https://photo.toyotasever.ru/Y4K8622Z7RB943208/43401ac535cf4fc4961c6735de4a4d29.jpg</image>
 			</images>
 		<max_discount>0</max_discount><priceWithDiscount>2590190</priceWithDiscount><sale_price>2590190</sale_price><url>https://belgee-smr.ru/cars/belgee-x50-15-amt-150-лс-style-белый-2024/</url></car>
-		<car>
-			<unique_id>82780ed5456d4c10b05f93eb0cb8577d</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2024</year>
-			<price>2590190</price>
-			<credit_discount>180000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z3RB943321</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3RB943321/be7e22146702b0db702f46c83fcb9e31.jpeg</image>
-			</images>
-		<max_discount>0</max_discount><priceWithDiscount>2590190</priceWithDiscount><sale_price>2590190</sale_price><url>https://belgee-smr.ru/cars/belgee-x50-15-amt-150-лс-style-черный-2024/</url></car>
 		<car>
 			<unique_id>b07e8472d2c536b6d895ef52902d470d</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -608,7 +582,7 @@ B нaличии нoвый Belgее Х70
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2024</year>
 			<price>3426190</price>
 			<credit_discount>200000</credit_discount>
