@@ -29,9 +29,9 @@
 Купите автомобиль, который обеспечит вам уверенность и комфорт в любой ситуации!</Description>
 		<Price>2690190</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>180000</CreditDiscount>
+		<CreditDiscount>250000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>380000</MaxDiscount>
+		<MaxDiscount>680000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8622Z8RB943122/929bfa64b2e6a22e377383b1cfda625e.jpeg" />
@@ -98,7 +98,7 @@
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>180000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>380000</MaxDiscount>
+		<MaxDiscount>610000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8622Z7RB943208/c8da759a4deff6510f7a5e6201d5f7fc.jpg" />
@@ -167,7 +167,7 @@
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>400000</MaxDiscount>
+		<MaxDiscount>630000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8722D3RB328379/0ff7fa41a4970fec5e0b6af0af2745b7.jpg" />
@@ -236,7 +236,7 @@
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>400000</MaxDiscount>
+		<MaxDiscount>630000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8722D3RB328365/7e457b90a2c7861d8a9e8a0e215f7a47.jpg" />
@@ -305,7 +305,7 @@
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>400000</MaxDiscount>
+		<MaxDiscount>630000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8722D6RB327680/b91b38b2ce53ff46f309b1841b0459db.jpg" />
@@ -373,7 +373,7 @@
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>400000</MaxDiscount>
+		<MaxDiscount>630000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8722D4RB328908/89244edbd66c273412d2bcd37fc649cf.jpg" />
@@ -441,7 +441,7 @@
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>400000</MaxDiscount>
+		<MaxDiscount>630000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8722D9RB328788/9c927fcc5591b64bebebcb6cad8becca.jpg" />
@@ -510,7 +510,7 @@
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>400000</MaxDiscount>
+		<MaxDiscount>630000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8722D1RB325142/6e6aa23fa479158702ab5dd61a17fa4c.jpg" />
@@ -579,7 +579,7 @@
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>400000</MaxDiscount>
+		<MaxDiscount>630000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8722D5RB326407/d00c3b3c5a300b002a24b1d95a1b703d.jpg" />
