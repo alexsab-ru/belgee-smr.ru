@@ -301,7 +301,7 @@
  Belgee — разумный выбор в сложное время!
 Купите автомобиль, который обеспечит вам уверенность и комфорт в любой ситуации!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D3RB328379/cad5421105c9631af58b1a988804365f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3RB328379/b360c562abb2a720e76c16cf414087dd.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D3RB328379/c1ca6549d483d3a0cf8dc59903b25afe.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D3RB328379/2b3f5a6a25fa3a1617dcad2986230aa9.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D3RB328379/e6cde0d79cc7598ace9ea1f0890fadb0.jpeg</image>
@@ -364,7 +364,7 @@
  Belgee — разумный выбор в сложное время!
 Купите автомобиль, который обеспечит вам уверенность и комфорт в любой ситуации!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D6RB327680/98a2f840cd48de128e842f68636af17b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D6RB327680/597597222a5b0e52ae28f835ab4a84f6.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D6RB327680/f3f201da8360baf38fbabbedfa26bd4c.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D6RB327680/8f910593544cdd2ca8aa20c734e27dc6.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D6RB327680/ccc36d4cc998d7826899b9f5d546f22e.jpeg</image>
@@ -426,7 +426,7 @@
  Belgee — разумный выбор в сложное время!
 Купите автомобиль, который обеспечит вам уверенность и комфорт в любой ситуации!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D4RB328908/7ba7f0cc3a2b3ce7a3a2279dea9bb30c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4RB328908/1b44987e5a5ec5c84d7ad9daabebd5d9.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D4RB328908/c87c90d60513c5bd5018689d8d59a314.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D4RB328908/b2ec544af691c6e0f28cfc4c1222e8b0.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D4RB328908/e71203671ab1a0b48dd7f34dc0efd020.jpeg</image>
@@ -488,7 +488,7 @@
  Belgee — разумный выбор в сложное время!
 Купите автомобиль, который обеспечит вам уверенность и комфорт в любой ситуации!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D9RB328788/7c3967bca46780cdab5bcd569ad2d639.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D9RB328788/654a1149a6816d9b8bac4f3ea88c2557.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D9RB328788/7fb864a4bd2fad4ac7be3e77a909072c.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D9RB328788/ce428b6b7b4a39ad60c1911f3a999524.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D9RB328788/b146afedb58f83508538e4f27adb74b0.jpeg</image>
@@ -551,7 +551,7 @@
  Belgee — разумный выбор в сложное время!
 Купите автомобиль, который обеспечит вам уверенность и комфорт в любой ситуации!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D1RB325142/9f5493762762481dda7076d07d27d210.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D1RB325142/33112f34a24836296e8a5741e1605a26.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D1RB325142/35bd9f9f5047a64aa9833c9ff22b97c1.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D1RB325142/f8dcf53701cbdf8771381d9d5fe7f758.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8722D1RB325142/7348dc1cb555ec6bbd57a813afe85608.jpeg</image>
@@ -613,7 +613,9 @@
  Звоните прямо сейчас и бронируйте лучшее предложение!
  Belgee — разумный выбор в сложное время!
 Купите автомобиль, который обеспечит вам уверенность и комфорт в любой ситуации!</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722Z0SB303988/1defc6529bd9f643676c06bdaeed97ac.jpg</image>
+			</images>
 		<max_discount>0</max_discount><priceWithDiscount>2946190</priceWithDiscount><sale_price>2946190</sale_price><url>https://belgee-smr.ru/cars/belgee-x70-15-at-150-лс-style-белый-2025/</url></car>
 		<car>
 			<unique_id>0e507a1ae7499e6768d7246b77e21a7f</unique_id>
@@ -657,7 +659,9 @@
  Звоните прямо сейчас и бронируйте лучшее предложение!
  Belgee — разумный выбор в сложное время!
 Купите автомобиль, который обеспечит вам уверенность и комфорт в любой ситуации!</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722Z2SB305774/77c43e4adf5a32e71a5aa5826c78fa40.jpg</image>
+			</images>
 		<max_discount>0</max_discount><priceWithDiscount>2946190</priceWithDiscount><sale_price>2946190</sale_price><url>https://belgee-smr.ru/cars/belgee-x70-15-at-150-лс-style-серый-2025/</url></car>
 	</cars>
 </data>
