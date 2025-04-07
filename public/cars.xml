@@ -650,7 +650,7 @@
 			</images>
 		<max_discount>0</max_discount><priceWithDiscount>3426190</priceWithDiscount><sale_price>3426190</sale_price><url>https://belgee-smr.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-белый-2024/</url></car>
 		<car>
-			<unique_id>b82a20db5a78913cc0f42f2d87d551de</unique_id>
+			<unique_id>8931df9645ca4436bf43822555561110</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AT (150 л.с.)</modification_id>
@@ -659,9 +659,9 @@
 			<wheel>левый</wheel>
 			<color>Белый</color>
 			<metallic>нет</metallic>
-			<availability>транзит</availability>
+			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>2</run>
 			<year>2025</year>
 			<price>2946190</price>
 			<credit_discount>200000</credit_discount>
@@ -712,7 +712,7 @@
 			</images>
 		<max_discount>0</max_discount><priceWithDiscount>2946190</priceWithDiscount><sale_price>2946190</sale_price><url>https://belgee-smr.ru/cars/belgee-x70-15-at-150-лс-style-белый-2025/</url></car>
 		<car>
-			<unique_id>0e507a1ae7499e6768d7246b77e21a7f</unique_id>
+			<unique_id>4b1bb3faafa4794d9a66303d6c533659</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AT (150 л.с.)</modification_id>
@@ -721,9 +721,9 @@
 			<wheel>левый</wheel>
 			<color>Серый</color>
 			<metallic>нет</metallic>
-			<availability>транзит</availability>
+			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>1</run>
+			<run>2</run>
 			<year>2025</year>
 			<price>2946190</price>
 			<credit_discount>200000</credit_discount>
