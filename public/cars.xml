@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>49f89fab2b363583f8d3f98817d71bc2</unique_id>
+			<unique_id>a6acfda1bbc335d9c917fbe9e5e1afd1</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -10,7 +10,7 @@
 			<wheel>левый</wheel>
 			<color>Белый</color>
 			<metallic>нет</metallic>
-			<availability>транзит</availability>
+			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<run>1</run>
 			<year>2025</year>
