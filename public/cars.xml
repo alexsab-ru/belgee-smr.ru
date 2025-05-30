@@ -668,7 +668,7 @@ B нaличии нoвый Belgее Х50
 			<images />
 		<max_discount>610000</max_discount><priceWithDiscount>1980190</priceWithDiscount><sale_price>1980190</sale_price><url>https://belgee-smr.ru/cars/belgee-x50-15-amt-150-лс-style-черный-2025/</url></car>
 		<car>
-			<unique_id>60e8e9538ed337f98293d83dba6ca064</unique_id>
+			<unique_id>0dfcdbd4b990c1840403bb78d321f3af</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
@@ -677,7 +677,7 @@ B нaличии нoвый Belgее Х50
 			<wheel>левый</wheel>
 			<color>Серый</color>
 			<metallic>нет</metallic>
-			<availability>транзит</availability>
+			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<run>1</run>
 			<year>2025</year>
