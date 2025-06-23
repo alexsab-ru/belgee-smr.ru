@@ -47,7 +47,25 @@
 		<InsuranceDiscount />
 		<MaxDiscount>680000</MaxDiscount>
 		<Color>Белый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8SB911177/5032da75479e99e595b1196ac422aa40.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8SB911177/aa8d8b425e3f59535acd4f2bf9e6eb47.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8SB911177/6687dc552e8deff7bb2f0710ca156372.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8SB911177/b11ab4382f11be21f1e0a6ed05b36219.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8SB911177/ce12fcc47289ef7d59bbcbfb4438be6f.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8SB911177/a39721f5ab951e2a61fee9711b727d8e.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8SB911177/e63e94c96dbe11f070a55a56580147d2.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8SB911177/eebec8ca140562158a96cfea104be93a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8SB911177/08f9d0d89c91a4b9df1b44bdd0258c02.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8SB911177/14d8d9d228beee23d30271af66385876.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8SB911177/32d97be2daeb82a4263241e77dc2c705.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8SB911177/35c844a8ce3d36fc1f9b7ebb8955a1e7.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8SB911177/675af60aced04aff0f08111bff8aa774.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8SB911177/4df5354a7a6c52f42a2bef46f2381914.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8SB911177/deb847c46d99c09ab63508d1bc70f5ca.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8SB911177/3ec51668bbbb49cf520caca89f2fb5f3.jpeg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8SB911177/bf493e295047d435d9b7b907b2135769.jpeg" />
+		</Images>
 		<Make>Belgee</Make>
 		<Model>X50</Model>
 		<GenerationId>18720814</GenerationId>
