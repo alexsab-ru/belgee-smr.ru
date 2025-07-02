@@ -8,7 +8,7 @@ description: "Воспользуйтесь специальным предлож
 ---
 import Button from '@/components/Button/Button.astro';
 import settings from '@/data/settings.json';
-export const { site_name, phone_common, legal_city_where } = settings;
+export const { site_name, brand, phone_common, legal_city_where } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { FIRST_DAY, LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
@@ -26,7 +26,7 @@ export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
 
 ### **Программа Трейд-ин с дополнительной выгодой от Belgee:**
 
-Обменяйте свой автомобиль с пробегом на новый с помощью программы Трейд-ин с дополнительной выгодой от Belgee. В официальном дилерском центре <strong>{site_name}</strong> это можно сделать максимально быстро. Специалисты оценят ваш автомобиль по рыночной стоимости, и вам не придется искать покупателя. Также стоимость вашего автомобиля можно будет внести как первый взнос по кредиту на новый автомобиль Belgee. 
+Обменяйте свой автомобиль с пробегом на новый с помощью программы Трейд-ин с дополнительной выгодой от Belgee. В официальном дилерском центре <strong>{brand} {site_name}</strong> это можно сделать максимально быстро. Специалисты оценят ваш автомобиль по рыночной стоимости, и вам не придется искать покупателя. Также стоимость вашего автомобиля можно будет внести как первый взнос по кредиту на новый автомобиль Belgee. 
 
 ### **Программа Belgee Finance:**
 
