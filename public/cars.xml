@@ -1,84 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>f4a44fdeea6b7401e0c5717c5ec60275</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2025</year>
-			<price>2690190</price>
-			<credit_discount>250000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z5SB903070</vin>
-			<description>ВАШ НАДЁЖНЫЙ ВЫБОР В НЕПРЕДСКАЗУЕМОЕ ВРЕМЯ — BELGEE от "Партнер-Авто Самара"! 
-В условиях, когда курс валют и цены растут, а стабильность — на вес золота, инвестиция в качественный и надёжный автомобиль — это разумное решение.
- ВМЕСТЕ С BELGEE ВЫ ПОЛУЧАЕТЕ ПАКЕТ ПРИЯТНЫХ БОНУСОВ:
- «5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
- Шинный отель — бесплатное хранение сезонных шин
-️ Автоотель — охраняемая парковка рядом с дилерским центром — всегда бесплатно!
- Дополнительное оборудование в подарок — нужные опции без доплат
-➕ И, конечно:
- Индивидуальный подход
- Сопровождение сделки на каждом этапе
-✔️ Открытые условия — без навязанных услуг и сюрпризов
-
- ПОЧЕМУ BELGEE — ЭТО ВЫГОДНАЯ ПОКУПКА ИМЕННО СЕЙЧАС?
-✅ Честная рассрочка под 0,01% — максимум удобства, минимум переплат
-✅ Кредит без стартовых вложений — садитесь за руль без ожидания
-✅ Trade-in с повышенной оценкой — старый авто станет частью выгодной сделки
-✅ Лизинг без первого взноса — для тех, кто думает стратегически
-
-⏰ Успейте до конца месяца — лучшие предложения уходят первыми!
-
-Почему именно Belgee?
-✅ Совместное производство с Geely — европейское качество, адаптированное под наши дороги
-✅ Простота обслуживания и доступность запчастей
-✅ Уверенность в любой поездке — от города до бездорожья
-✅ Надёжность, проверенная время
-
-
-Почему выбирают “Партнер-Авто Самара”?
-⭐️ Официальный дилер Belgee в Самаре
-⭐️ Только честные условия — без навязанных услуг
-⭐️ Работаем для вашей выгоды и комфорта
-⭐️ 20 лет в автомобильном бизнесе
-
- Звоните прямо сейчас и бронируйте лучшее предложение!
- Belgee — разумный выбор в непростое время!
-Купите автомобиль, который обеспечит вам уверенность, комфорт и стабильность — в любую погоду и любую эпоху!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/3b7f746678dfb75a5ded6c2976382301.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/eb4dc3a27d87df63fce28bd6e94929f7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/5bb2e30c74acb33e90cd5dd7a40710cb.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/ec748deec7d0c6471dd747721ecd55ed.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/4d9d89131a93a8224d918e8ec2933562.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/24377de3f83fa862eca79b6cb09102af.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/9a3c45542d95ea1c919d0de4067ce041.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/cb380725c3bc058705451fb1c90d0f8b.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/0ca1055969208b6bd095688b2603dc66.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/a03d907e12834ed1a549c9eb6a6b3eef.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/09ef7eca4bc899282f31aefd0d3168b6.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/f011416a8c1634496fcc11169a48097e.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/d7ec5cd06380a153e02a454f559d9226.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/0409372d98ba3a5e1678a56dffb976e2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/ed2f686597453a3c3570dc52786cd9cc.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/fb753c9374462788352bca906c6d96a1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/696e2b7f9280090d6e4ae7db078f241b.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/34048c3eb2f07877f645307250de7ef9.jpeg</image>
-			</images>
-		<max_discount>680000</max_discount><priceWithDiscount>2010190</priceWithDiscount><sale_price>2010190</sale_price><url>https://belgee-smr.ru/cars/belgee-x50-15-amt-150-лс-prestige-черный-2025/</url></car>
-		<car>
 			<unique_id>33c0248969640cfb780d3c54fbb4d960</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -232,6 +154,84 @@
 				<image>https://photo.toyotasever.ru/Y4K8622Z4SB903061/1b19b3a5ca634c330b2477f09bcaf03a.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z4SB903061/414c0902de3797ff9c56990782a8a232.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z4SB903061/9eea654d37d8cd94df8e4215cc96a6fd.jpeg</image>
+			</images>
+		<max_discount>680000</max_discount><priceWithDiscount>2010190</priceWithDiscount><sale_price>2010190</sale_price><url>https://belgee-smr.ru/cars/belgee-x50-15-amt-150-лс-prestige-черный-2025/</url></car>
+		<car>
+			<unique_id>f4a44fdeea6b7401e0c5717c5ec60275</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2025</year>
+			<price>2690190</price>
+			<credit_discount>250000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z5SB903070</vin>
+			<description>ВАШ НАДЁЖНЫЙ ВЫБОР В НЕПРЕДСКАЗУЕМОЕ ВРЕМЯ — BELGEE от "Партнер-Авто Самара"! 
+В условиях, когда курс валют и цены растут, а стабильность — на вес золота, инвестиция в качественный и надёжный автомобиль — это разумное решение.
+ ВМЕСТЕ С BELGEE ВЫ ПОЛУЧАЕТЕ ПАКЕТ ПРИЯТНЫХ БОНУСОВ:
+ «5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
+ Шинный отель — бесплатное хранение сезонных шин
+️ Автоотель — охраняемая парковка рядом с дилерским центром — всегда бесплатно!
+ Дополнительное оборудование в подарок — нужные опции без доплат
+➕ И, конечно:
+ Индивидуальный подход
+ Сопровождение сделки на каждом этапе
+✔️ Открытые условия — без навязанных услуг и сюрпризов
+
+ ПОЧЕМУ BELGEE — ЭТО ВЫГОДНАЯ ПОКУПКА ИМЕННО СЕЙЧАС?
+✅ Честная рассрочка под 0,01% — максимум удобства, минимум переплат
+✅ Кредит без стартовых вложений — садитесь за руль без ожидания
+✅ Trade-in с повышенной оценкой — старый авто станет частью выгодной сделки
+✅ Лизинг без первого взноса — для тех, кто думает стратегически
+
+⏰ Успейте до конца месяца — лучшие предложения уходят первыми!
+
+Почему именно Belgee?
+✅ Совместное производство с Geely — европейское качество, адаптированное под наши дороги
+✅ Простота обслуживания и доступность запчастей
+✅ Уверенность в любой поездке — от города до бездорожья
+✅ Надёжность, проверенная время
+
+
+Почему выбирают “Партнер-Авто Самара”?
+⭐️ Официальный дилер Belgee в Самаре
+⭐️ Только честные условия — без навязанных услуг
+⭐️ Работаем для вашей выгоды и комфорта
+⭐️ 20 лет в автомобильном бизнесе
+
+ Звоните прямо сейчас и бронируйте лучшее предложение!
+ Belgee — разумный выбор в непростое время!
+Купите автомобиль, который обеспечит вам уверенность, комфорт и стабильность — в любую погоду и любую эпоху!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/3b7f746678dfb75a5ded6c2976382301.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/eb4dc3a27d87df63fce28bd6e94929f7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/5bb2e30c74acb33e90cd5dd7a40710cb.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/ec748deec7d0c6471dd747721ecd55ed.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/4d9d89131a93a8224d918e8ec2933562.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/24377de3f83fa862eca79b6cb09102af.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/9a3c45542d95ea1c919d0de4067ce041.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/cb380725c3bc058705451fb1c90d0f8b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/0ca1055969208b6bd095688b2603dc66.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/a03d907e12834ed1a549c9eb6a6b3eef.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/09ef7eca4bc899282f31aefd0d3168b6.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/f011416a8c1634496fcc11169a48097e.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/d7ec5cd06380a153e02a454f559d9226.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/0409372d98ba3a5e1678a56dffb976e2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/ed2f686597453a3c3570dc52786cd9cc.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/fb753c9374462788352bca906c6d96a1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/696e2b7f9280090d6e4ae7db078f241b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5SB903070/34048c3eb2f07877f645307250de7ef9.jpeg</image>
 			</images>
 		<max_discount>680000</max_discount><priceWithDiscount>2010190</priceWithDiscount><sale_price>2010190</sale_price><url>https://belgee-smr.ru/cars/belgee-x50-15-amt-150-лс-prestige-черный-2025/</url></car>
 		<car>
