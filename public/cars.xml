@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>002edce431e3c0d63e5b918d433bdf53</unique_id>
+			<unique_id>229b81efae1aafe7145e8ee67b6b1f72</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -20,7 +20,7 @@
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z2SB925995</vin>
+			<vin>Y4K8622Z9SB919983</vin>
 			<description>Улучшим ваше предложение на любую  модель BELGEE! Не верите? Звоните!
 
 ЗИМНИЕ ШИНЫ В ПОДАРОК! 
@@ -56,7 +56,7 @@ B нaличии нoвый Belgее Х50
 			<images />
 		<max_discount>350000</max_discount><priceWithDiscount>2130190</priceWithDiscount><sale_price>2130190</sale_price><url>https://belgee-smr.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2025/</url></car>
 		<car>
-			<unique_id>229b81efae1aafe7145e8ee67b6b1f72</unique_id>
+			<unique_id>002edce431e3c0d63e5b918d433bdf53</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -75,7 +75,7 @@ B нaличии нoвый Belgее Х50
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z9SB919983</vin>
+			<vin>Y4K8622Z2SB925995</vin>
 			<description>Улучшим ваше предложение на любую  модель BELGEE! Не верите? Звоните!
 
 ЗИМНИЕ ШИНЫ В ПОДАРОК! 
