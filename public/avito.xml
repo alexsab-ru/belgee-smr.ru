@@ -502,87 +502,6 @@
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>a3e9115ece2fc494f771d9af24f8fcfd</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>ВАШ НАДЁЖНЫЙ ВЫБОР В НЕПРЕДСКАЗУЕМОЕ ВРЕМЯ — BELGEE от "Партнер-Авто Самара"! 
-В условиях, когда курс валют и цены растут, а стабильность — на вес золота, инвестиция в качественный и надёжный автомобиль — это разумное решение.
-
- ВМЕСТЕ С BELGEE ВЫ ПОЛУЧАЕТЕ ПАКЕТ ПРИЯТНЫХ БОНУСОВ:
- «5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
- Шинный отель — бесплатное хранение сезонных шин
-️ Автоотель — охраняемая парковка рядом с дилерским центром — всегда бесплатно!
- Дополнительное оборудование в подарок — нужные опции без доплат
-➕ И, конечно:
- Индивидуальный подход
- Сопровождение сделки на каждом этапе
-✔️ Открытые условия — без навязанных услуг и сюрпризов
-
- ПОЧЕМУ BELGEE — ЭТО ВЫГОДНАЯ ПОКУПКА ИМЕННО СЕЙЧАС?
-✅ Честная рассрочка под 0,01% — максимум удобства, минимум переплат
-✅ Кредит без стартовых вложений — садитесь за руль без ожидания
-✅ Trade-in с повышенной оценкой — старый авто станет частью выгодной сделки
-✅ Лизинг без первого взноса — для тех, кто думает стратегически
-
-⏰ Успейте до конца месяца — лучшие предложения уходят первыми!
-
-Почему именно Belgee?
-✅ Совместное производство с Geely — европейское качество, адаптированное под наши дороги
-✅ Простота обслуживания и доступность запчастей
-✅ Уверенность в любой поездке — от города до бездорожья
-✅ Надёжность, проверенная время
-
-
-Почему выбирают “Партнер-Авто Самара”?
-⭐️ Официальный дилер Belgee в Самаре
-⭐️ Только честные условия — без навязанных услуг
-⭐️ Работаем для вашей выгоды и комфорта
-⭐️ 20 лет в автомобильном бизнесе
-
- Звоните прямо сейчас и бронируйте лучшее предложение!
- Belgee — разумный выбор в непростое время!
-Купите автомобиль, который обеспечит вам уверенность, комфорт и стабильность — в любую погоду и любую эпоху!</Description>
-		<Price>3321190</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>200000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>630000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB311475/8d1cccdd73738ce131f4a68ad8154ec1.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB311475/942449a8330ae7bff0af306e7a14a9ac.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB311475/a4ab3edba16328482ac39df8115c4ae2.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB311475/6f9104e22523ec429aecdf44b4ca2855.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB311475/933666e1184ddd64d70d3972b3b80de0.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB311475/89fb91f83bd595460d278e2e611d5934.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB311475/1dcfc74064ae921cd2b09d1fd1af23ba.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB311475/da8e17c451c9060fe62e9c84b14042ef.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB311475/2ca88442e8844b13942a66b1cc355072.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB311475/5d5e31f6435c9703c6350b189f747212.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB311475/bdaa3d40458e86914a3e774bfa9faed6.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB311475/cc9fd6ac3e1383c78a9666a1caa8aa86.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB311475/eeea26b5e02c51972f6128de2ca45c23.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB311475/bdd6e2c262d99fde01119c17ccdce81f.jpeg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722D5SB311475/0d6ae72d5bf204c5477de8139bea531f.jpeg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X70</Model>
-		<GenerationId>22038108</GenerationId>
-		<ModificationId>22038113</ModificationId>
-		<ComplectationId>22060428</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2025</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8722D5SB311475</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-	</Ad>
-	<Ad>
 		<Id>cc64355a2d7fb260cee1c0b2460a3438</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -935,55 +854,6 @@
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>437347841ce5dbc9957c214a92796a28</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>ВАШ НАДЁЖНЫЙ ВЫБОР В НЕПРЕДСКАЗУЕМОЕ ВРЕМЯ — BELGEE от "Партнер-Авто Самара"! 
-В условиях, когда курс валют и цены растут, а стабильность — на вес золота, инвестиция в качественный и надёжный автомобиль — это разумное решение.
-Почему именно Belgee?
-✅ Совместное производство с Geely — европейское качество, адаптированное к российским дорогам.
-✅ Простота обслуживания и доступность запчастей.
-✅ Уверенность в каждой поездке — от города до бездорожья.
-✅ Надёжность, которая не подведёт!
- Только до конца месяца — УСПЕЙ ВЫГРАТЬ ОТ СИТУАЦИИ! 
-  Кредит без первоначального взноса — садитесь за руль уже сегодня!
- Честная рассрочка — платите удобно, без скрытых переплат!
- Выгодный обмен (Trade-in) — сдайте старое авто и экономьте на новом!
-️ Гарантия 5 лет — спокойствие и уверенность на годы вперёд!
-⏰ Важно! Цены на авто растут, а выгодные предложения заканчиваются. Сегодня — лучшее время купить, чем завтра переплачивать!
-Почему "Партнер-Авто Самара"?
-Мы — официальный дилер Belgee в Самаре.
-Только честные условия, без навязанных услуг.
-Работаем для вашей выгоды и комфорта!
-20 лет на рынке автомобильного бизнеса 
- Звоните прямо сейчас и бронируйте лучшее предложение!
- Belgee — разумный выбор в сложное время!
-Купите автомобиль, который обеспечит вам уверенность и комфорт в любой ситуации!</Description>
-		<Price>3121190</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>200000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>630000</MaxDiscount>
-		<Color>Черный</Color>
-		<Images />
-		<Make>Belgee</Make>
-		<Model>X70</Model>
-		<GenerationId>22038108</GenerationId>
-		<ModificationId>22038113</ModificationId>
-		<ComplectationId>22060427</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2025</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8722D1RB331751</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-	</Ad>
-	<Ad>
 		<Id>2104706d7cb9ae36a2f5f84f402cc22d</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -1030,6 +900,55 @@
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8722D1RB331748</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>437347841ce5dbc9957c214a92796a28</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>ВАШ НАДЁЖНЫЙ ВЫБОР В НЕПРЕДСКАЗУЕМОЕ ВРЕМЯ — BELGEE от "Партнер-Авто Самара"! 
+В условиях, когда курс валют и цены растут, а стабильность — на вес золота, инвестиция в качественный и надёжный автомобиль — это разумное решение.
+Почему именно Belgee?
+✅ Совместное производство с Geely — европейское качество, адаптированное к российским дорогам.
+✅ Простота обслуживания и доступность запчастей.
+✅ Уверенность в каждой поездке — от города до бездорожья.
+✅ Надёжность, которая не подведёт!
+ Только до конца месяца — УСПЕЙ ВЫГРАТЬ ОТ СИТУАЦИИ! 
+  Кредит без первоначального взноса — садитесь за руль уже сегодня!
+ Честная рассрочка — платите удобно, без скрытых переплат!
+ Выгодный обмен (Trade-in) — сдайте старое авто и экономьте на новом!
+️ Гарантия 5 лет — спокойствие и уверенность на годы вперёд!
+⏰ Важно! Цены на авто растут, а выгодные предложения заканчиваются. Сегодня — лучшее время купить, чем завтра переплачивать!
+Почему "Партнер-Авто Самара"?
+Мы — официальный дилер Belgee в Самаре.
+Только честные условия, без навязанных услуг.
+Работаем для вашей выгоды и комфорта!
+20 лет на рынке автомобильного бизнеса 
+ Звоните прямо сейчас и бронируйте лучшее предложение!
+ Belgee — разумный выбор в сложное время!
+Купите автомобиль, который обеспечит вам уверенность и комфорт в любой ситуации!</Description>
+		<Price>3121190</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>200000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>630000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images />
+		<Make>Belgee</Make>
+		<Model>X70</Model>
+		<GenerationId>22038108</GenerationId>
+		<ModificationId>22038113</ModificationId>
+		<ComplectationId>22060427</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2025</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8722D1RB331751</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 </Ads>
